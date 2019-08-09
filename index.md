@@ -1,4 +1,4 @@
-![](C:\Users\Administrator\Pictures\JM LOGO 1.png)
+![](JM LOGO 1.png)
 
 # 这是主页。
 
