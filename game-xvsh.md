@@ -19,5 +19,11 @@
 ## 版本
 - Preview 0.10812.0
   - 添加了三种勋，五种航。
-  
+
+## 截图
+- Preview 0.10812.0
+  - ![工程界面](projectXVSH00.PNG)
+  - ![测试游玩1](projectXVSH01.PNG)
+  - ![测试游玩2](projectXVSH02.PNG)
+
 ###### [返回主页](index.md)
