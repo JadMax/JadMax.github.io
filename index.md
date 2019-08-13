@@ -15,7 +15,7 @@
 
 - [Maze Sekai Seeker](game-mss.md)
 - [一中保卫战](game-n1msd.md)
-- （进行中）[勋战航](game-xvsh.md)
+- ~~（突然感觉做不下去了）[勋战航](game-xvsh.md)~~
 
 ## 关于
 
