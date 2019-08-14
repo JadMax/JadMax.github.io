@@ -15,7 +15,7 @@
 
 - [Maze Sekai Seeker](game-mss.md)
 - [一中保卫战](game-n1msd.md)
-- （计划）[（多结局游戏）]()
+- （计划）[（多结局游戏）](index.md)
 
 ## 关于
 
