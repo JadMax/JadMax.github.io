@@ -14,6 +14,6 @@ _游戏会玩你。_
   - 添加关卡胜利、失败事件；
   - 添加~~新关卡（废话）与~~关卡解锁与保存系统；
   - 优化胜利、失败判定。
-  `该版本[unitypackage文件](https://pan.baidu.com/s/1VK08kGbLoRD0oEje_4n5Ng)（最好结合 2D Template 使用），密码ghgy。`
+  _该版本[unitypackage文件](https://pan.baidu.com/s/1VK08kGbLoRD0oEje_4n5Ng)（最好结合 2D Template 使用），密码 ghgy。_
   
 ###### [返回主页](index.md)
