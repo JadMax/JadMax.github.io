@@ -11,6 +11,10 @@
 - [Third-person Camera Controller](https://github.com/JadMax/Unity3D-Miscellaneous/blob/master/ThirdpersonCameraController.cs)
 - [First-person Camera Controller](https://github.com/JadMax/Unity3D-Miscellaneous/blob/master/FirstpersonCameraController.cs)
 
+#### Unitypackage
+
+- [Gyroscope Camera Template](unipack-gyrocam.md)
+
 ### Made with Unity
 
 - [Maze Sekai Seeker](game-mss.md)
