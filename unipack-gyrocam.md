@@ -10,7 +10,7 @@ _优化了一下官方例程……而已……_
 
 附在目标 Camera 上。
 
-`
+```
 
 using System.Collections;
 using System.Collections.Generic;
@@ -72,6 +72,6 @@ public class CameraPreference : MonoBehaviour
     }
 }
 
-`
+```
 
 ###### [返回主页](index.md)
