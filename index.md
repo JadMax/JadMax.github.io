@@ -11,7 +11,7 @@
 - [Third-person Camera Controller](https://github.com/JadMax/Unity3D-Miscellaneous/blob/master/ThirdpersonCameraController.cs)
 - [First-person Camera Controller](https://github.com/JadMax/Unity3D-Miscellaneous/blob/master/FirstpersonCameraController.cs)
 
-#### Unitypackage
+#### [Unitypackage](/unipacks)
 
 - [Gyroscope Camera Template](unipack-gyrocam.md)
 
