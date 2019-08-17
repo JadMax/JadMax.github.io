@@ -10,7 +10,8 @@ _优化了一下官方例程……而已……_
 
 附在目标 Camera 上。
 
-`using System.Collections;
+`
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -68,6 +69,7 @@ public class CameraPreference : MonoBehaviour
     {
         isWFlipped = !isWFlipped;
     }
-}`
+}
+`
 
 ###### [返回主页](index.md)
