@@ -1,0 +1,16 @@
+{
+"companyName": "Jad Max",
+"productName": "New Life",
+"productVersion": "1.0",
+"dataUrl": "rc_1_0_web.data.unityweb",
+"wasmCodeUrl": "rc_1_0_web.wasm.code.unityweb",
+"wasmFrameworkUrl": "rc_1_0_web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
