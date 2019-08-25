@@ -20,7 +20,7 @@
 - [Maze Sekai Seeker](game-mss.md)
 - [一中保卫战](game-n1msd.md)
 - （搁置中）[Underline](game-ul.md)
-- [New Life](unity-webgl/New%20Life/index.html)
+- [New Life](unity-webgl/NewLife/index.html)
 
 ## 关于
 
